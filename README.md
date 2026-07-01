@@ -200,4 +200,4 @@ Planned future features to expand the application capability:
 ## Author
 
 - **Name** - [Himanshi Chauhan](mailto:himanshic114@gmail.com)
-- **Email** - [himanshic114@gmail.com(mailto:himanshic114@gmail.com)
+- **Email** - [himanshic114@gmail.com(mailto:himanshic114@gmail.com)]
