@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# FAISS Vector Store
+vectorstore/
+
+# Uploaded PDFs
+uploads/
+
+# Logs
+*.log
