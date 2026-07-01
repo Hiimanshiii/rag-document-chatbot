@@ -105,8 +105,8 @@ graph TD
 
 Create a `.env` file in the root directory and configure the following variables:
 
-| Variable | Description | Example / Default |
-| --- | --- | --- |
+| Variable | Description | 
+| --- | --- | 
 | `GROQ_API_KEY` | API Key for accessing Groq Llama models | 
 | `BACKEND_URL` | Base URL of the running FastAPI server | 
 
@@ -191,22 +191,13 @@ The project user interface contains the following layouts:
 Planned future features to expand the application capability:
 - **Multiple PDF Support**: Ability to upload and build index across multiple documents simultaneously.
 - **Chat Memory**: Support context tracking across consecutive questions in a conversation thread.
-- **Citation Highlighting**: Provide source page and text snippet indicators for generated answers.
 - **Authentication**: Add user accounts and secure workspace management.
 - **Cloud Vector Database**: Migrate from local file-based FAISS to Pinecone or Milvus for horizontal scaling.
 - **Docker Support**: Containerize frontend and backend services for simple cloud deployments.
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
 
-- **Name** - [Your Name](mailto:your.email@example.com)
-- **GitHub** - [@yourgithub](https://github.com/yourgithub)
-- **LinkedIn** - [your-profile](https://www.linkedin.com/in/your-profile)
-- **Email** - [your.email@example.com](mailto:your.email@example.com)
+- **Name** - [Himanshi Chauhan](mailto:himanshic114@gmail.com)
+- **Email** - [himanshic114@gmail.com(mailto:himanshic114@gmail.com)]
