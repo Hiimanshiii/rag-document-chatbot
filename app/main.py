@@ -19,6 +19,9 @@ app = FastAPI(
 UPLOAD_FOLDER = Path("uploads")
 UPLOAD_FOLDER.mkdir(exist_ok=True)
 
+VECTORSTORE_FOLDER = Path("vectorstore")
+VECTORSTORE_FOLDER.mkdir(exist_ok=True)
+
 
 @app.get("/")
 def home():
